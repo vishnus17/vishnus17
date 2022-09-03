@@ -9,7 +9,7 @@
 <a href="https://www.hackerrank.com/vishnu_satheesh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vishnu_satheesh1" height="30" width="40" /></a>
 </p>
 
-## I work with: 
+## Proficient in: 
 <p align="center">
   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> <br>
 <br>
