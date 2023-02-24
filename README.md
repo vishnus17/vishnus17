@@ -34,7 +34,7 @@
  
  ## My Technical blogs:
  1. [Hashnode](https://vishnusblog.tech/)
- 2. [Community Classroom](https://blog.commclassroom.org/how-do-websites-redirect-to-your-location-based-version)
+ 2. [We Make Devs]([https://blog.commclassroom.org/how-do-websites-redirect-to-your-location-based-version](https://blog.wemakedevs.org/how-do-websites-redirect-to-your-location-based-version))
  3. [Middleware inventory](https://www.middlewareinventory.com/blog/author/vishnu/)
   </p>
   
