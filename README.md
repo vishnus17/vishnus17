@@ -50,8 +50,3 @@
   
 
 <div align="left"><br>
- <br>
-  
-![](https://komarev.com/ghpvc/?username=vishnus17&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
-
-</div><br>
