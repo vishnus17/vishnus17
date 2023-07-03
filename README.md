@@ -33,7 +33,7 @@
   </p>
  
  ## My Technical blogs:
- 1. [Hashnode](https://vishnusblog.tech/)
+ 1. [Learn More Cloud](https://blog.learnmorecloud.com/)
  2. [We Make Devs](https://blog.wemakedevs.org/how-do-websites-redirect-to-your-location-based-version)
  3. [Middleware inventory](https://www.middlewareinventory.com/blog/author/vishnu/)
   </p>
