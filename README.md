@@ -5,7 +5,7 @@
 <a href="https://twitter.com/tastyapple17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tastyapple17" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vishnu-s-763644196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnu-s" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19783234/vishnu-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19783234" height="30" width="40" /></a>
-<a href="https://vishnusblog.tech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="vishnusblog.tech" height="30" width="40" /></a>
+<a href="https://blog.learnmorecloud.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="blog.learnmorecloud.com" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vishnu_satheesh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vishnu_satheesh1" height="30" width="40" /></a>
 </p>
 
