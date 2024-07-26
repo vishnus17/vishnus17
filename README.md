@@ -1,4 +1,4 @@
-# Hi <img width="33" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Vishnu S. 
+# Hi, I'm Vishnu S. 
 
 <br>
 <p align="center"> <br>
@@ -41,7 +41,6 @@
 ## My GitHub Stats
 <!-- ## Github Contributions 📈 -->
 <p align='center'>
-<img src="https://activity-graph.herokuapp.com/graph?username=vishnus17&theme=react-dark&hide_border=true">
 <p><br>
   
 | ![Overall github stats](https://github-readme-stats.vercel.app/api?username=vishnus17&show_icons=true&theme=react)             | ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishnus17&theme=react)                                                                                                           |
